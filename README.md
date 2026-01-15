@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Aryan 👋  
 
-<!--
-**AryanGupta0505/AryanGupta0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd-year BE Computer Engineering student** at  
+**Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya (DAVV), Indore**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m a **Computer Engineering undergraduate** with a strong interest in **backend-focused full-stack development**. I enjoy building **scalable, real-world applications**, designing **robust APIs and databases**, and crafting **polished, production-ready user interfaces using React**.
+
+I’ve worked on projects like a **Medium-style blogging platform** and a **Paytm-like payments application**, where I focused on **backend architecture, authentication, data modeling, and performance**, while also building **maintainable and responsive UI systems**.  
+
+Alongside development, I continuously strengthen my **Data Structures & Algorithms**, **system design fundamentals**, and **problem-solving skills** to create **reliable and scalable software**.
+
+---
+
+## Get in Touch
+
+💬 **Ask me about** system-oriented full-stack development, backend architecture, databases, and turning ideas into scalable, production-ready applications.
+
+📧 **Email:** aryan140505@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/aryan-gupta-b30623297 
